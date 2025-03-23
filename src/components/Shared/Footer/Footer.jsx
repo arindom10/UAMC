@@ -1,4 +1,3 @@
-import React from "react";
 import { FaPhoneAlt } from "react-icons/fa";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { IoLocationOutline } from "react-icons/io5";
@@ -122,7 +121,7 @@ export default function Footer() {
       <div className="mt-10 text-center border-t border-[#242424] pt-4">
         <p className="text-base text-[#737477]">
           Copyright © 2024. All Rights Reserved by
-          <span className="font-bold text-white ml-1"> Unipix</span>
+          <span className="font-bold text-white ml-1">Unipix</span>
         </p>
       </div>
     </footer>
